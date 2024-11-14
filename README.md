@@ -1,7 +1,6 @@
 # DWfert.github.io
 Maria Fernanda Torres Del cueto
 Página 
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
